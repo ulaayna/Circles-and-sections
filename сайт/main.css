@@ -1,0 +1,44 @@
+#header{
+    width: 1215px;
+    height: 250px;
+    background-color: #bddcf0;
+    margin-bottom: 10px;
+    background-image: url(fon.jpg)
+  }
+body {
+    background: #bddcf0; /* цвет фона*/
+}
+/* Класс */
+.f {
+    padding: 5px;
+    background: #a7d0ec;
+    font-size: 20px;
+    border-style: solid ;
+}
+.f a {
+    text-decoration: none;
+    color:black;
+}
+a {
+    text-decoration: none;
+    color:blue;
+}
+.p {
+    font-size: 20px;
+    padding: 10px;
+    background: #9acef1;
+    border-style: double;
+}
+h1 {
+    border-style: double;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul {
+    background: #98cdf0;
+    font-size: 16px;
+}
+.pic{
+    display: inline-block; 
+}
